@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BuckoBee Idle Dance"
+		},
+		{
+			"offsets": [
+				60,
+				-203
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BuckoBee Left Note"
+		},
+		{
+			"offsets": [
+				140,
+				-191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BuckoBee Move Right"
+		},
+		{
+			"offsets": [
+				90,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BuckoBee Down Pose"
+		},
+		{
+			"offsets": [
+				84,
+				-293
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BuckoBee Sing Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BuckoBeeold",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "BuckoBee",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		165,
+		255
+	],
+	"camera_position": [
+		-250,
+		280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

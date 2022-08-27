@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				251,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BuckoBee bucko idle"
+		},
+		{
+			"offsets": [
+				220,
+				-213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BuckoBee bucko left"
+		},
+		{
+			"offsets": [
+				244,
+				-211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BuckoBee bucko down"
+		},
+		{
+			"offsets": [
+				251,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BuckoBee bucko up"
+		},
+		{
+			"offsets": [
+				210,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BuckoBee bucko right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BuckoBee",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bucko",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		193,
+		254
+	],
+	"camera_position": [
+		130,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

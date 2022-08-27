@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-200
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RileyBee Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-203
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RileyBee LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-191
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RileyBee Right Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-190
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RileyBee Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				-247
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RileyBee Move Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RileyBee",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Rileybee",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-250,
+		280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

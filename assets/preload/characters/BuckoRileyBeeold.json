@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BuckoRileyBee idle"
+		},
+		{
+			"offsets": [
+				60,
+				-203
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BuckoRileyBee sing left"
+		},
+		{
+			"offsets": [
+				140,
+				-191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BuckoRileyBee sing right"
+		},
+		{
+			"offsets": [
+				90,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BuckoRileyBee sing down"
+		},
+		{
+			"offsets": [
+				84,
+				-293
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BuckoRileyBee sing up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BuckoRileyBeeold",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "BuckoRileyBee",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		165,
+		255
+	],
+	"camera_position": [
+		-250,
+		280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BuckoRileyBee idle"
+		},
+		{
+			"offsets": [
+				189,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BuckoRileyBee left"
+		},
+		{
+			"offsets": [
+				190,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BuckoRileyBee down"
+		},
+		{
+			"offsets": [
+				160,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BuckoRileyBee up"
+		},
+		{
+			"offsets": [
+				183,
+				-158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BuckoRileyBee right"
+		},
+		{
+			"offsets": [
+				210,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Haha!",
+			"indices": [],
+			"name": "BuckoRileyBee laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BuckoRileyBee",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "beerileybucko",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		95,
+		155
+	],
+	"camera_position": [
+		-400,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

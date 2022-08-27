@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-285
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RileyBee riley idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				-210
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RileyBee riley left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RileyBee riley down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-180
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RileyBee riley up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-180
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RileyBee riley right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-180
+			],
+			"anim": "Haha!",
+			"fps": 24,
+			"name": "RileyBee riley laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RileyBee",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "riley",
+	"flip_x": false,
+	"healthbar_colors": [
+		223,
+		69,
+		43
+	],
+	"camera_position": [
+		-240,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
